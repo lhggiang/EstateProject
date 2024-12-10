@@ -1,0 +1,19 @@
+# Bỏ qua thư mục cấu hình của IntelliJ IDEA
+.idea
+
+# Bỏ qua thư mục target (Java build output)
+target
+
+# Bỏ qua các tệp biên dịch của Java
+*.class
+
+# Bỏ qua tệp log
+*.log
+
+# Bỏ qua các tệp tạm thời và hệ thống
+.DS_Store
+Thumbs.db
+
+# Bỏ qua tệp cấu hình của Maven và Gradle
+/.mvn
+.gradle
