@@ -16,14 +16,9 @@ Thị trường bất động sản ngày càng phát triển mạnh mẽ, nhưn
 ## 🔥 Các Tính Năng Chính  
 
 - **Đăng ký/Đăng nhập/Quên mật khẩu**: Hỗ trợ tạo tài khoản, đăng nhập an toàn và lấy lại mật khẩu dễ dàng.  
-- **Tìm kiếm bất động sản theo tiêu chí**: Lọc bất động sản theo vị trí, giá cả, diện tích, loại hình (chung cư, nhà phố, đất nền,...).  
+- **Tìm kiếm bất động sản theo tiêu chí**: Lọc bất động sản theo vị trí, giá cả, diện tích,...
 - **Đăng tin rao bán/cho thuê**: Người dùng có thể đăng tin, mô tả chi tiết và đăng ảnh bất động sản.  
-- **Quản lý danh sách yêu thích**: Người mua có thể lưu lại các bất động sản quan tâm để xem sau.  
-- **Thống kê và báo cáo**: Hiển thị lượt xem, lượt liên hệ và hiệu quả của các tin đăng.  
-
-## 📌 Mục Tiêu Dự Án  
-
-Estate Project không chỉ là một nền tảng tìm kiếm bất động sản mà còn hướng tới việc xây dựng một hệ sinh thái giao dịch an toàn, minh bạch và hiệu quả. Với giao diện trực quan và công nghệ hiện đại, dự án này hứa hẹn sẽ giúp tối ưu hóa quá trình mua bán và quản lý bất động sản.  
+- **Giao khách hàng cho nhân viên quản lý**: Có thể phân nhân viên để phụ trách khách hàng.
 
 ---
 
