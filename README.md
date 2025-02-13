@@ -19,6 +19,7 @@ Thị trường bất động sản ngày càng phát triển mạnh mẽ, nhưn
 - **Tìm kiếm bất động sản theo tiêu chí**: Lọc bất động sản theo vị trí, giá cả, diện tích,...
 - **Đăng tin rao bán/cho thuê**: Người dùng có thể đăng tin, mô tả chi tiết và đăng ảnh bất động sản.  
 - **Giao khách hàng cho nhân viên quản lý**: Có thể phân nhân viên để phụ trách khách hàng.
+- **Quản lý tòa nhà và khách hàng**: Có thể thêm, xóa, sửa tòa nhà và khách hàng.
 
 ---
 
